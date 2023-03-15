@@ -45,7 +45,7 @@ except URLError as e:
 
 
 
-#import snowflake.connector
+import snowflake.connector
 
 
 
